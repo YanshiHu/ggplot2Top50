@@ -1274,20 +1274,3 @@ chennai_ggl_hybrid_map + geom_point(aes(x=lon, y=lat),
                           geom_encircle(aes(x=lon, y=lat),
                                         data = places_loc, size = 2, color = "blue")
 ```
-
-
-```{r}
-sessionInfo()
-```
-
-
-
-
-
-
-
-
-
-
-
-
